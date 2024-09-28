@@ -1,0 +1,150 @@
+```plaintext
+# Файлы и директории для исключения
+
+# Файлы VS Code
+.vscode/
+.history/
+.user.ini
+
+# Файлы Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnp.js
+.pnp.cjs
+
+# Файлы PyCharm
+.idea/
+*.iml
+*.iws
+
+# Файлы IntelliJ IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+*.log
+*.su
+*.pyc
+*.pyo
+*.pyd
+*.py
+*.swp
+*.swo
+*.swp~
+*.DS_Store
+
+# Файлы Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Файлы различных операционных систем
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# Linux
+*.swp
+*.swo
+
+# Файлы сборки
+dist/
+build/
+
+# Файлы отладки
+*.log
+*.tmp
+*.tmp~
+
+# Файлы Environments
+.env
+.env.local
+.env.*.local
+
+# Файлы Django
+*.pyc
+*.pyo
+*.pyd
+*.py
+*.pyw
+*.pycache/
+.pytest_cache/
+
+# Файлы Flask
+instance/
+.flaskenv
+
+# Файлы MongoDB
+*.bson
+
+# Файлы SQLite
+*.sqlite
+*.sqlite3
+
+# Файлы Vagrant
+.vagrant/
+
+# Файлы VirtualBox
+*.vbox
+*.vbox-prev
+*.vmdk
+*.vmx
+
+# Файлы Windows
+Thumbs.db
+ehthumbs.db
+
+# Файлы Yarn
+.yarn-integrity
+.pnp
+.pnp.js
+
+# Файлы Unity
+Library/
+*.pidb
+
+# Файлы Windows Installer
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Файлы Java
+*.class
+
+# Файлы Gradle
+.gradle/
+build/
+
+# Файлы Android
+*.apk
+*.apk-debug.apk
+*.aab
+*.aab-debug.aab
+
+# Файлы Xcode
+*.xcodeproj
+*.xcworkspace
+*.xcsettings
+
+# Файлы Gatsby
+public/
+
+# Файлы Hugo
+public/
+resources/
+
+# Файлы Jekyll
+_site/
+
+# Файлы Django
+.venv
+
+# Файлы SQLite
+.db
+```
